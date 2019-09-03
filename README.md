@@ -1,0 +1,3 @@
+This is a super fast project I made to see how difficult it was going to be to learn Vue. If you type in a band name and hit search, the band's albums should appear. I used a fun api from theaudiodb.com for this project. I've started on a new component that will allow the user to click on a specific album and view the track listings from their search results, but it isn't finished yet. Another thing I would like to work on is fixing the mobile formatting; I used Vueify to get going because I really wanted to spend the majority of my time working on components and manipulating the API data, but it does not translate well to mobile. I really like Vue and had a lot of fun with this! 
+
+Check it out at kesimm.github.io/vue-demo
